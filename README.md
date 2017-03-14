@@ -3,4 +3,4 @@ Processing Script that creates a dynamic 2D field of sight based upon the mouse 
 
 Inspired by RedBlobGames: http://www.redblobgames.com/articles/visibility/
 
- ![LineofSight](lineofsite.png "Field of Sight")
+ ![LineofSight](lineofsight.png "Field of Sight")
